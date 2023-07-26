@@ -1,0 +1,5 @@
+print('Hello, World!')
+print(7 * 6)
+print(3 + 7 + 42)
+print()
+print('This is the end', 'or os is it?', 'lool, youre wrong', 3)
